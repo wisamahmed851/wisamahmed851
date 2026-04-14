@@ -1,69 +1,85 @@
-<!-- GitHub Profile README — wisamahmed851 -->
+# Hi 👋, I'm Wisam Ahmed
 
-<h1 align="center">Hi, I'm Wisam Ahmed 👋</h1>
+💻 Backend Developer | Laravel & Nest.js  
+📍 Karachi, Pakistan / Remote  
 
-<p align="center">
-  <b>Backend Developer</b> · Pakistan · Open to opportunities
-</p>
-
-<p align="center">
-  <a href="https://github.com/wisamahmed851">
-    <img src="https://komarev.com/ghpvc/?username=wisamahmed851&style=flat&color=grey" alt="profile views" />
-  </a>
-</p>
+Results-driven Backend Engineer with 1+ year of experience building scalable, secure web applications using **Laravel, Nest.js, and MySQL**.  
+Focused on clean architecture, RESTful APIs, and real-time systems. Currently working at **Bidec Solutions**.
 
 ---
 
-### About me
+## 🛠 Skills
 
-I build clean, scalable backend systems.  
-Passionate about APIs, databases, and writing code that just works.
+### Backend
+- Laravel
+- Nest.js
+- ASP.NET Core (Learning)
 
-- 🔧 Currently working with **Python**, **Node.js**, and **PostgreSQL**
-- 📦 I love designing REST APIs and microservices
-- 🌱 Always learning — currently exploring **system design**
-- 📫 Reach me at: wisamahmed851 on GitHub
+### Frontend
+- HTML, CSS, JavaScript
+- Bootstrap, Tailwind
+- jQuery
+- React (Learning)
 
----
+### Database
+- MySQL
+- Firebase (Basic)
 
-### Tech stack
+### Tools & Tech
+- Git & GitHub
+- Postman
+- VS Code
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisamahmed851&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisamahmed851&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+### Mobile
+- Flutter (GetX)
 
 ---
 
-### GitHub streak
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wisamahmed851&theme=default&hide_border=true" />
-</p>
-
----
-
-### Activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wisamahmed851&theme=minimal&hide_border=true" />
-</p>
+### 🔹 Ma3rood – Multi-Category Marketplace
+- Built a large-scale marketplace for **e-commerce, property, and motors listings**
+- Improved API performance and database efficiency using Laravel & MySQL
 
 ---
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
+### 🔹 Ride n Share – Real-Time Ride App
+- Developed backend with **Nest.js + WebSockets**
+- Enabled real-time ride requests, driver tracking, and notifications
+
+---
+
+### 🔹 GetX Services – Service Platform
+- Created APIs for Flutter app connecting users with service providers
+- Implemented authentication and modular service architecture
+
+---
+
+### 🔹 Pob Website – CMS Platform
+- Developed dynamic CMS with admin dashboard
+- Managed content, media, and team data efficiently
+
+---
+
+### 🔹 Shradha Book Store
+- Built using **ASP.NET Core MVC**
+- Includes product, category, and order management
+
+---
+
+## 📊 GitHub Stats
+
+![Wisam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisamahmed851&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wisamahmed851&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=wisamahmed851&hide_border=true)
+
+---
+
+## 📫 Contact
+
+📧 Email: wisamahmed851@hamil.com  
+📱 Phone: +92 327 2954532  
+
+---
