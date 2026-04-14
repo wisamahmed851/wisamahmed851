@@ -19,7 +19,7 @@ Currently at <b>Bidec Solutions</b> → Moving toward <b>AI/ML Engineering</b>.
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <h3 align="center">🚀 Core Backend</h3>
 <p align="center">
@@ -48,12 +48,24 @@ Currently at <b>Bidec Solutions</b> → Moving toward <b>AI/ML Engineering</b>.
 
 ---
 
-# 📊 htop — GitHub Activity
+## ⚡ Developer Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisamahmed851&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99&cache_seconds=1800" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisamahmed851&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99&cache_seconds=1800" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wisamahmed851&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wisamahmed851&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wisamahmed851&theme=tokyonight&utcOffset=5" height="150"/>
+</p>
+
+---
+
+## 📊 htop — GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wisamahmed851&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisamahmed851&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99" height="170"/>
 </p>
 
 <p align="center">
@@ -66,31 +78,27 @@ Currently at <b>Bidec Solutions</b> → Moving toward <b>AI/ML Engineering</b>.
 
 ---
 
-# 🚀 Projects
+## 🐍 Contribution Snake
 
-🔹 **Ma3rood – Marketplace System**  
-Multi-category platform (ecommerce, property, motors)  
-Optimized APIs & database performance  
-
-🔹 **Ride n Share – Real-Time App**  
-Nest.js + WebSockets  
-Live tracking & ride system  
-
-🔹 **GetX Services Platform**  
-Flutter backend APIs  
-Auth + modular services  
-
-🔹 **Pob CMS Platform**  
-Dynamic admin dashboard  
-
-🔹 **Shradha Book Store**  
-ASP.NET Core MVC system  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wisamahmed851/wisamahmed851/output/snake.svg" />
+</p>
 
 ---
 
-# 🧪 Current Focus
+## 🚀 Projects
+
+🔹 **Ma3rood – Marketplace System**  
+🔹 **Ride n Share – Real-Time App**  
+🔹 **GetX Services Platform**  
+🔹 **Pob CMS Platform**  
+🔹 **Shradha Book Store**
+
+---
+
+## 🧪 Current Focus
 
 ```bash
 > mastering backend systems
-> learning AI/ML fundamentals
-> moving toward intelligent architectures
+> learning AI/ML
+> building intelligent systems
