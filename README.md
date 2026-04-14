@@ -51,16 +51,16 @@ Currently at <b>Bidec Solutions</b> → Moving toward <b>AI/ML Engineering</b>.
 # 📊 htop — GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wisamahmed851&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisamahmed851&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
+  <img src="https://streak-stats.demolab.com?user=wisamahmed851&theme=tokyonight&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff99&line=00ff99&point=ff0055&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wisamahmed851&bg_color=0d1117&color=00ff99&line=00ff99&point=ff0055&area=true&hide_border=true" />
 </p>
 
 ---
