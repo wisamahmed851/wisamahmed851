@@ -13,15 +13,15 @@
 ## 🧠 About Me
 
 <p align="center">
-Backend Developer with 1+ year of experience building scalable APIs and real-time systems.<br>
-Currently working at <b>Bidec Solutions</b> and transitioning into <b>AI/ML Engineering</b>.
+Backend Developer with 1+ year experience building scalable APIs & real-time systems.<br>
+Currently at <b>Bidec Solutions</b> → Moving toward <b>AI/ML Engineering</b>.
 </p>
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### 🚀 Backend
+### 🚀 Core Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,php,dotnet" />
 </p>
@@ -31,7 +31,7 @@ Currently working at <b>Bidec Solutions</b> and transitioning into <b>AI/ML Engi
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
 </p>
 
-### 🗄 Database
+### 🗄 Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
@@ -41,56 +41,55 @@ Currently working at <b>Bidec Solutions</b> and transitioning into <b>AI/ML Engi
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-### 🤖 Learning (AI/ML)
+### 🤖 AI / ML (Learning Phase)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ---
 
-## 🚀 Projects
+# 📊 htop — GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff99&line=00ff99&point=ff0055&area=true&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Projects
 
 🔹 **Ma3rood – Marketplace System**  
 Multi-category platform (ecommerce, property, motors)  
 Optimized APIs & database performance  
 
 🔹 **Ride n Share – Real-Time App**  
-Built with Nest.js + WebSockets  
-Live tracking, instant ride requests  
+Nest.js + WebSockets  
+Live tracking & ride system  
 
 🔹 **GetX Services Platform**  
-Backend APIs for Flutter app  
-Authentication + modular services  
+Flutter backend APIs  
+Auth + modular services  
 
 🔹 **Pob CMS Platform**  
 Dynamic admin dashboard  
-Content & media management  
 
 🔹 **Shradha Book Store**  
-ASP.NET Core MVC project  
-Product & order system  
+ASP.NET Core MVC system  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧪 Current Focus
+# 🧪 Current Focus
 
 ```bash
+> mastering backend systems
 > learning AI/ML fundamentals
-> improving backend architecture
-> building intelligent systems
+> moving toward intelligent architectures
