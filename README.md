@@ -21,27 +21,27 @@ Currently at <b>Bidec Solutions</b> → Moving toward <b>AI/ML Engineering</b>.
 
 # ⚡ Tech Stack
 
-### 🚀 Core Backend
+<h3 align="center">🚀 Core Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,php,dotnet" />
 </p>
 
-### 🎨 Frontend
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
 </p>
 
-### 🗄 Databases
+<h3 align="center">🗄 Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" />
 </p>
 
-### 🛠 Tools
+<h3 align="center">🛠 Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-### 🤖 AI / ML (Learning Phase)
+<h3 align="center">🤖 AI / ML (Learning)</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
@@ -51,8 +51,9 @@ Currently at <b>Bidec Solutions</b> → Moving toward <b>AI/ML Engineering</b>.
 # 📊 htop — GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisamahmed851&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisamahmed851&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wisamahmed851&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99&cache_seconds=1800" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisamahmed851&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff99&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
